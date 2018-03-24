@@ -1,5 +1,9 @@
 **Online Training**
 
+
+[https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)
+Once you actually start writing your own programs you must learn Git, this is more or less the de facto method that most companies use to maintain version control of software.
+
 [https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 Highly Recommend, if you have the time.  This is the live actual Harvard Intro to computer science class and it is FREE.  You are actually taking the class and watching the live streamed lectures, you have homework and projects, and access to the actual Harvard TAs.  What really makes the course is the instructor though, David Malan, top notch CS professor.  This a well known and well regarded into to CS.  When I took the class it was based around the C programming language, it is now based around Python, which is much more relevant to modern programming. Recommend.
